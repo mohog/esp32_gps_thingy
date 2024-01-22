@@ -2,7 +2,7 @@
 
 Quite simple ESP32 based device that allows to display basic GPS data on OLED screen and measure distance in a straight line. 
 
-More about this device is available [here](https://www.youtube.com/watch?v=ebBtEi8srBc). If you want to know more about ESP32, you might want to [visit my website too](https://quadmeup.com/tag/esp32/).
+More about this device is available [here](https://www.youtube.com/watch?v=ebBtEi8srBc).https://www.youtube.com/watch?v=coQVNvISk14 If you want to know more about ESP32, you might want to [visit my website too](https://quadmeup.com/tag/esp32/).
 
 # Hardware
 
